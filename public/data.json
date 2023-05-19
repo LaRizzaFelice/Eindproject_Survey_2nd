@@ -1,15 +1,15 @@
 {
-  "title": "Demo Project",
+  "title": "Felice La Rizza -  Training & Consult ",
   "some_events": [
     { "title": "This is an event", "date": "06-07-2023" },
     { "title": "This is an other event", "date": "07-07-2023" },
     { "title": "This is yet another event", "date": "08-07-2023" }
   ],
-  "description": "Pretend there is a lot of text here",
+  "description": "Welcome to ",
   "pictures": [
-    "https://plus.unsplash.com/premium_photo-1680127402006-3a21c93da392?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-    "https://images.unsplash.com/photo-1683122397672-14c6ff3eb008?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80",
-    "https://images.unsplash.com/photo-1683384162000-f563d6501fd0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-    "https://images.unsplash.com/photo-1683294163345-1cd8cd02147f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://plus.unsplash.com/premium_photo-1661964066289-2ca80fbf77e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://plus.unsplash.com/premium_photo-1676651178916-a092c108d11e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
   ]
 }

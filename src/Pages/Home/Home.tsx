@@ -36,15 +36,21 @@ export const Home: FC = () => {
 
   return (
     <Box display="flex" flexDirection="column" alignItems="center">
+      <Box padding={"50px"}>
       <Typography variant="h2">{data.title}</Typography>
-
-      <Box>
-        {data.some_events.map((event) => (
-          <SingleEvent event={event} />
-        ))}
       </Box>
       <Typography>{data.description}</Typography>
+      <Box padding={"50px"}>
       <Images images={data.pictures} />
+      </Box>
+      <Typography variant="h3">Upcoming Events</Typography>
+       <Box  sx={{ display: 'inline-flex' }}>
+        {data.some_events.map((event) => (
+          <Box padding={"10px"}>
+          <SingleEvent event={event} />
+          </Box>
+        ))}
+      </Box>
     </Box>
   );
 };
